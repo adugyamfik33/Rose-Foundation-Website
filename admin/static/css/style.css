@@ -1,0 +1,23 @@
+.bs{
+    box-shadow: 0px 5px 5px rgba(182, 182, 182, 0.7);
+}
+.count-card{
+    background-color: white;
+    padding:40px 20px;
+    border: none; 
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 30px;
+}
+.count-card-bl-1{
+    border-left: 4px #2196F3 solid;
+    background-color: rgba(33, 150, 243, 0.15);
+}
+.count-card-bl-2{
+    border-left: 4px #FF9800 solid;
+    background-color: rgba(255, 152, 0, 0.15);
+}
+.count-card-bl-3{
+    border-left: 4px #3F51B5 solid;
+    background-color: rgba(63, 81, 181, 0.15);
+}
